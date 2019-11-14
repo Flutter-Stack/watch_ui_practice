@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_watch_shop/utils/utils.dart';
 import 'package:line_icons/line_icons.dart';
 
+// 
 class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
   final bool isHome;
 
